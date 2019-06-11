@@ -1,0 +1,5 @@
+[2019-06-05 23:28:40,133] TRACE [Broker id=2] Handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2019-06-05 23:28:40,169] TRACE [Broker id=2] Finished handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2019-06-05 23:28:40,181] TRACE [Broker id=2] Cached leader info PartitionState(controllerEpoch=1, leader=1, leaderEpoch=3, isr=[0, 1], zkVersion=4, replicas=[1, 0, 2], offlineReplicas=[2]) for partition my-replicated-topic-0 in response to UpdateMetadata request sent by controller 0 epoch 1 with correlation id 18 (state.change.logger)
+[2019-06-05 23:28:40,185] TRACE [Broker id=2] Handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2019-06-05 23:28:40,185] TRACE [Broker id=2] Finished handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
